@@ -24,5 +24,7 @@
 ![EDA#4_9](https://user-images.githubusercontent.com/49419507/159082407-6755df02-17d8-4ad3-8765-b0ea263af8df.png)
 ![EDA#4_10](https://user-images.githubusercontent.com/49419507/158749587-339b7de9-7a07-48a6-938b-f8b1352a2bfc.png)
 ![EDA#4_12png](https://user-images.githubusercontent.com/49419507/159082466-ef642cad-fed2-4d24-b19b-821c855f640b.png)
-![EDA#4_10](https://user-images.githubusercontent.com/49419507/159082470-b0969d3f-2d88-4227-b5c7-70a1d6a2177a.png)
 ![EDA#4_11](https://user-images.githubusercontent.com/49419507/159082475-93f26838-fe9d-4cc1-ba37-e0111a85a422.png)
+
+### Summary
+*There are 205 country affected by attacks
