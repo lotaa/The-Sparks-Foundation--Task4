@@ -27,4 +27,12 @@
 ![EDA#4_11](https://user-images.githubusercontent.com/49419507/159082475-93f26838-fe9d-4cc1-ba37-e0111a85a422.png)
 
 ### Summary
-*There are 205 country affected by attacks
+*  There are 205 country affected by attacks
+*  The most of the attack occurs in only three countries, so that the proportion of three countries of the attack in the world is more than 27%.
+*  And the least decade is most attackes.
+*  The percentage increase of attacks from the first decade to the last decade in the data 7.61%
+*  Most of the attack lasts less than 24 hour by proportion  95.5%
+*  Percentage of Suicide attacks in the world is 96.3%
+*  There are more than 8 types of attack. the most popular is Bombing/Explosion 
+*  The most targets attacks occure on 'Private Citizens& Property', 'Military', 'Police' and 'Govemment(General)'
+*  The most targets attacks occur by 'Explosives', and Firearms
